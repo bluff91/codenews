@@ -8,16 +8,12 @@
 
 - #### Each news article has link that opens a new tab to the source of the article
 
+---
+
 - used axios to fetch data
 - used Context and Reducer
 - used state, effect, callback, ref
 
-![img 1](https://imgur.com/eERtDQtl.png)
-
 ---
 
-![img 2](https://imgur.com/j6nTkEj.png)
-
----
-
-![img 3](https://imgur.com/jmIj8sp.png)
+![img 2](https://imgur.com/j6nTkEj.png) ![img 3](https://imgur.com/jmIj8sp.png)
